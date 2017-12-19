@@ -1,6 +1,6 @@
 {
   "name": "@neos21/req-cmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "require() API and CLI in one JS",
   "main": "index.js",
   "bin": {

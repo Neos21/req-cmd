@@ -1,6 +1,6 @@
 {
   "name": "@neos21/req-cmd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "require() API and CLI in one JS",
   "main": "index.js",
   "bin": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neos21GitHub/req-cmd.git"
+    "url": "git+https://github.com/Neos21/req-cmd.git"
   },
   "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neos21GitHub/req-cmd/issues"
+    "url": "https://github.com/Neos21/req-cmd/issues"
   },
-  "homepage": "https://github.com/Neos21GitHub/req-cmd#readme"
+  "homepage": "https://github.com/Neos21/req-cmd#readme"
 }

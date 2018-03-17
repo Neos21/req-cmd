@@ -48,7 +48,7 @@ $ npm run exec
 
 [Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
 
-- [GitHub - req-cmd](https://github.com/Neos21GitHub/req-cmd)
+- [GitHub - req-cmd](https://github.com/Neos21/req-cmd)
 - [npmjs - @neos21/req-cmd](https://www.npmjs.com/package/@neos21/req-cmd)
 
 
@@ -59,4 +59,4 @@ $ npm run exec
 - [Murga](http://neos21.hatenablog.jp/)
 - [El Mylar](http://neos21.hateblo.jp/)
 - [Bit-Archer](http://bit-archer.hatenablog.com/)
-- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
+- [GitHub - Neos21](https://github.com/Neos21/)

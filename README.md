@@ -1,4 +1,6 @@
-# @neos21/req-cmd
+# req-cmd : @neos21/req-cmd
+
+[![NPM Version](https://img.shields.io/npm/v/@neos21/req-cmd.svg)](https://www.npmjs.com/package/@neos21/req-cmd)
 
 `require()` API and CLI in one JS.
 

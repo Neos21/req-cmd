@@ -48,7 +48,7 @@ $ npm run exec
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - req-cmd](https://github.com/Neos21/req-cmd)
 - [npmjs - @neos21/req-cmd](https://www.npmjs.com/package/@neos21/req-cmd)

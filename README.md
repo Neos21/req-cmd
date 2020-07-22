@@ -1,6 +1,6 @@
 # req-cmd : @neos21/req-cmd
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/req-cmd.svg)](https://www.npmjs.com/package/@neos21/req-cmd)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/req-cmd.svg)](https://www.npmjs.com/package/@neos21/req-cmd) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/req-cmd?label=github)](https://github.com/Neos21/req-cmd/packages/324560)
 
 `require()` API and CLI in one JS.
 
@@ -32,7 +32,7 @@ Add npm-scripts:
   "name": "test-project",
   "scripts": {
     "exec": "req-cmd"
-  },
+  }
 }
 ```
 

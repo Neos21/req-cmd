@@ -2,7 +2,7 @@
 
 /** The Function */
 function reqCmd() {
-  console.log('@neos21/req-cmd by Neo (@Neos21) http://neo.s21.xrea.com/');
+  console.log('@neos21/req-cmd by Neo (@Neos21) https://neos21.net/');
 }
 
 if(process.env.npm_lifecycle_script === 'req-cmd') {
